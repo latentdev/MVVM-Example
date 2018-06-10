@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Lab_2.Dictionaries"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:String x:Key="sample">The quick brown fox jumps over the lazy dog.</system:String>
+    <system:String x:Key="name">Name: </system:String>
+    <system:String x:Key="baseline">Baseline: </system:String>
+    <system:String x:Key="lineSpacing">Line Spacing: </system:String>
+    <system:String x:Key="culture">Culture:</system:String>
+    <system:String x:Key="fontInformation">Font Information:</system:String>
+    
+</ResourceDictionary>
